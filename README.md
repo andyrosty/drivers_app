@@ -122,6 +122,15 @@ The app includes the following screens:
 - Registration Screen
 - Dashboard (in development)
 
+![Login Screen](screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-02-13%20at%2009.03.29.png)
+*Login Screen for driver authentication*
+
+![Registration Screen](screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-02-13%20at%2009.03.44.png)
+*Registration Screen for new drivers*
+
+![Dashboard](screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-02-13%20at%2009.09.12.png)
+*Dashboard interface (in development)*
+
 ## Contributing
 
 1. Fork the repository
