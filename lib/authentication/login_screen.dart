@@ -1,3 +1,4 @@
+/*
 import 'package:drivers_app/authentication/signup_screen.dart';
 import 'package:drivers_app/pages/dashboard.dart';
 import 'package:firebase_auth/firebase_auth.dart';
@@ -209,3 +210,4 @@ class _LoginScreenState extends State<LoginScreen>
     );
   }
 }
+*/
