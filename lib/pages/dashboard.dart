@@ -1,7 +1,6 @@
-/*
 import 'package:flutter/material.dart';
 
-
+// Dashboard screen widget for the driver app
 class Dashboard extends StatefulWidget
 {
   const Dashboard({super.key});
@@ -19,4 +18,3 @@ class _DashboardState extends State<Dashboard>
     return const Placeholder();
   }
 }
-*/

@@ -1,4 +1,3 @@
-/*
 import 'dart:io';
 
 import 'package:drivers_app/pages/dashboard.dart';
@@ -11,8 +10,7 @@ import '../methods/common_methods.dart';
 import '../widgets/loading_dialog.dart';
 import 'login_screen.dart';
 
-
-
+// Sign up screen widget for driver registration
 class SignUpScreen extends StatefulWidget {
   const SignUpScreen({super.key});
 
@@ -395,4 +393,3 @@ class _SignUpScreenState extends State<SignUpScreen>
     );
   }
 }
-*/

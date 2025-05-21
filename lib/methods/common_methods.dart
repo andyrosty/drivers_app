@@ -1,7 +1,7 @@
-/*
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/material.dart';
 
+// Utility class for common methods used throughout the app
 class CommonMethods
 {
   checkConnectivity(BuildContext context) async
@@ -21,4 +21,3 @@ class CommonMethods
     ScaffoldMessenger.of(context).showSnackBar(snackBar);
   }
 }
-*/

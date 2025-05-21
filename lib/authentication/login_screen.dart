@@ -1,4 +1,3 @@
-/*
 import 'package:drivers_app/authentication/signup_screen.dart';
 import 'package:drivers_app/pages/dashboard.dart';
 import 'package:firebase_auth/firebase_auth.dart';
@@ -7,7 +6,7 @@ import 'package:flutter/material.dart';
 import '../methods/common_methods.dart';
 import '../widgets/loading_dialog.dart';
 
-
+// Login screen widget for driver authentication
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
 
@@ -210,4 +209,3 @@ class _LoginScreenState extends State<LoginScreen>
     );
   }
 }
-*/
